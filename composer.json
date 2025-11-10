@@ -1,0 +1,8 @@
+{
+    "name": "frostbitten/value-objects",
+    "license": "MIT",
+    "description": "A few useful value objects",
+    "require": {
+        "php": ">=8.4"
+    }
+}
